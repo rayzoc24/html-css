@@ -42,8 +42,4 @@ It replicates the layout, design, and style of the Amazon home page, including t
 
 ---
 
-## 🚀 How to Run
 
-1. Clone this repository:
-   ```bash
-   git clone <repo-url>
